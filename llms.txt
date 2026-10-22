@@ -1,0 +1,5 @@
+# SehatCalc — Health Calculators
+> Free health calculators: BMI, BMR, TDEE, body fat percentage, ideal weight, water intake, calorie and pregnancy due date calculators. For information only, not medical advice. Free, no sign-up.
+
+- Home: https://khuramshahzadmarar10-afk.github.io/health-calculators/
+- Sitemap: https://khuramshahzadmarar10-afk.github.io/health-calculators/sitemap.xml
